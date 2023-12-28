@@ -1,0 +1,2 @@
+System Details:
+uname_result(system='Windows', node='Arnav', release='11', version='10.0.22621', machine='AMD64')
